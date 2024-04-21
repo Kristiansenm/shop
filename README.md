@@ -1,4 +1,4 @@
-# SHOP
+# BadBunny brands
 
 Shop is a sample e-commerce [Progressive Web App](https://developers.google.com/web/progressive-web-apps/).
 
